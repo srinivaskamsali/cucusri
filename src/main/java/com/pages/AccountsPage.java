@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class AccountsPage {
-//sample comment --edited in Github
+//sample comment --edited in Github--edited eclipse3
 	private WebDriver driver;
 
 	private By accountSections = By.cssSelector("div#center_column span");
